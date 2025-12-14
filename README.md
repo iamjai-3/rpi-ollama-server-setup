@@ -190,7 +190,3 @@ Edge AI isn’t a demo anymore — this is production-grade.
 ## License
 
 Free to use and modify. Attribution appreciated.
-
---
-
-Added by request from iamjai-3: "Add this in readme.md"
